@@ -1,2 +1,2 @@
 # CMC_API_filter
-Python class to get data from CoinMarketCap volume
+Getting data from CoinMarketCap volume
